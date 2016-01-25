@@ -1,0 +1,6 @@
+{
+  "phabricator.uri": "http://phabricator.athenaeum.idv.tw",
+  "load": [
+    "../libphutil/src/"
+  ]
+}
